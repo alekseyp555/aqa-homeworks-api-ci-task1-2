@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/8af6vegqn1ukatyq?svg=true)](https://ci.appveyor.com/project/ALexZHankok/aqa-hw2-task1-2)
+[![Build status](https://ci.appveyor.com/api/projects/status/jfyk4cbu7qlsusms/branch/main?svg=true)](https://ci.appveyor.com/project/alekseyp555/aqa-homeworks-api-ci-task1-2/branch/main)
